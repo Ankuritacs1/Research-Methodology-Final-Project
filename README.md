@@ -17,3 +17,5 @@ Strengths involved with venturing in cloud computing range from a wide angle. Th
 
 
 Contact Me:ankuritacs1@gmail.com
+
+**How to run the .py file:**
