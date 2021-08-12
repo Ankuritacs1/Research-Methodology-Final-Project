@@ -19,3 +19,5 @@ Strengths involved with venturing in cloud computing range from a wide angle. Th
 Contact Me:ankuritacs1@gmail.com
 
 **How to run the .py file:**
+
+Click on the file and it will ask for your inputs and based on those inputs it will show whether you ashould go for a on-premise or cloud based solution
