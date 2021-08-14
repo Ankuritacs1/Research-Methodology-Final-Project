@@ -1,4 +1,16 @@
-#**Investigating of how to move from a software utilized on premise to cloud Computing through the incorporation of CRM Solutions**
+**Investigating of how to move from a software utilized on premise to cloud Computing through the incorporation of CRM Solutions**
+
+## Table of Contents
+
+1. [Manifest](#manifest)
+2. [Project Architectural Overview](#project-architectural-overview)
+3. [Installation Instruction](#installation-instruction)
+4. [Roadmap](#roadmap)
+5. [Project Status](#project-status)
+6. [How to contribute](#how-to-contribute)
+7. [License](#license)
+8. [Contact](#contact)
+8. [Acknowledgements](#acknowledgements)
 
 
 Cloud computing is an emerging paradigm that has continually enabled the users to access computing resources in a more convenient manner. The services are access as pay-per-use services. Different cloud offerings such as Amazon and Google Apps are increasingly obtaining a broader user base to encourage a software migration towards the cloud. However, it is a fact that such offerings are still at their infancy stages. This paper presents a research on investigating how to move from a software utilized on premise to embrace the cloud computing changes through the incorporation of the CRM solutions.
