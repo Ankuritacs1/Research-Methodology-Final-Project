@@ -17,6 +17,8 @@ Cloud computing is an emerging paradigm that has continually enabled the users t
 Here are list of top files from this project
 
 survey.py --> This file is giving the suggestion whether to go for cloud or on-premise solution
+
+
 img ----------> folder contains images for the readme
 
 ## Project Architectural Overview
