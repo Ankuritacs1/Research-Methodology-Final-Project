@@ -50,4 +50,4 @@ I would like to express my special gratitude to my family who offered enough sup
 
 **How to run the .py file:**
 
-Click on the file and it will ask for your inputs and based on those inputs it will show whether you ashould go for a on-premise or cloud based solution
+Click on the file and it will ask for your inputs and based on those inputs it will show whether you should go for a on-premise or cloud based solution
